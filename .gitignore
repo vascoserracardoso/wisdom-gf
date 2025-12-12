@@ -1,0 +1,11 @@
+Runs/*
+!Runs/.gitkeep
+Galaxies/*
+!Galaxies/.gitkeep
+CompareRuns/*
+!CompareRuns/.gitkeep
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.vscode
