@@ -199,7 +199,7 @@ if __name__ == "__main__":
         """)
 
         # --- Show size of WISDOM-GF folder ---
-        getValues.get_folder_size('../WISDOM-GF')
+        getValues.get_folder_size('../wisdom-gf')
 
         # --- Check if running inside conda or virtual environment ---
         conda_environment = False
